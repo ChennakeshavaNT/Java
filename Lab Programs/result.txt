@@ -1,0 +1,22 @@
+
+when n=5 and v=1
+
+			here n- total number of nodes
+				 v- Source Vertex
+
+		 OUTPUT:
+
+		 		Enter the no.of nodes:
+				5
+				Enter the cost adjacency matrix:
+				0    2    9999 1    8
+				6    0    3    2    9999
+				1    9999 0    4    9999
+				9999 9999 2    0    3
+				3    9999 4    3    0
+				Enter the Source Vertex(<5):
+				1
+				The Optimal Tour is
+				1---->2---->3---->4---->5---->1
+				The Optimal cost is 
+				15 
